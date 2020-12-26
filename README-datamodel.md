@@ -9,19 +9,6 @@
 ## Tính năng cho admin:
 ---
 
--
-  
-    - Tài khoản
-       1. Đăng ký
-       2. Đăng nhập
-       3. Đặt phòng 
-       3. Xem phòng
-       4. Thêm phòng
-       5. Sửa phòng
-       6. Xóa phòng
-       7. Thêm blog
-       8. Sửa blog
-       9. Xóa blog
 
 ## Mô hình của database
 ---
