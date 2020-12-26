@@ -25,11 +25,11 @@
     - [Ghi chú về code React trong app này](https://github.com/freeCodeCamp-Hanoi/blog-app-front-end-01/blob/master/README-instruction.md)
 
     Cho Back-end: 
-    - [Mô tả về data model](https://github.com/ngminhtrung/fcchn-blog-backend/blob/master/readme-datamodel.md)
-    - [Đóng góp cho dự án](https://github.com/ngminhtrung/fcchn-blog-backend/blob/master/Contributing.md)
-    - [Cách cài ứng dụng](https://github.com/ngminhtrung/fcchn-blog-backend/blob/master/Contributing.md)
-    - [Câu hỏi](https://github.com/ngminhtrung/fcchn-blog-backend/blob/master/readme-faq.md)
-    - [Tools sử dụng để test](https://github.com/ngminhtrung/fcchn-blog-backend/blob/master/readme-tools.md)
+    - [Mô tả về data model](https://github.com/kaaaaaaaaaaaaaaaaaaaaaaa/Web_App/blob/main/README-datamodel.md)
+    - [Đóng góp cho dự án](https://github.com/kaaaaaaaaaaaaaaaaaaaaaaa/Web_App/blob/main/README-Contributing.md)
+    - [Cách cài ứng dụng](https://github.com/kaaaaaaaaaaaaaaaaaaaaaaa/Web_App/blob/main/README-Contributing.md)
+    - [Câu hỏi](https://github.com/kaaaaaaaaaaaaaaaaaaaaaaa/Web_App/blob/main/README-faq.md)
+    - [Tools sử dụng để test](https://github.com/kaaaaaaaaaaaaaaaaaaaaaaa/Web_App/blob/main/README-tools.md)
     - [API documentation](https://github.com/ngminhtrung/fcchn-blog-backend/blob/master/doc/index.html)
 
 ## Tiến độ & Đánh giá:
