@@ -3,26 +3,25 @@
 
 ---
 ###  Tính năng cho người dùng 
-   1. Xem phòng
-   2. Đặt phòng
-   3. Bình luận 
+   - Xem phòng
+   - Đặt phòng
+   - Bình luận 
+###  Tính năng cho người dùng 
 
+- Tài khoản
+   - Đăng ký 
+   - Đăng nhập
 
-### Tài khoản
-   1. Đăng ký 
-   2. Đăng nhập
+- Booking
+   - Đặt phòng 
+   - Xem phòng
+   - Thêm phòng
+   - Sửa phòng
+  - Xóa phòng
 
-### Booking
-   1. Đặt phòng 
-   2. Xem phòng
-   3. Thêm phòng
-   4. Sửa phòng
-   5. Xóa phòng
-
-### Blogs
-   1. Thêm blog
-   2. Sửa blog
-   3. Xóa blog
+- Blogs
+   - Sửa blog
+   - Xóa blog
 
   
    
