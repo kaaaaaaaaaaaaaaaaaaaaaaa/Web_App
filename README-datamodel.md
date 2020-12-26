@@ -1,12 +1,12 @@
 # Yêu cầu cho data model
 
-### Tính năng cho người dùng:
+## Tính năng cho người dùng:
 ---
 - Xem phòng
 - Đặt Phòng
 - Bình luận
 
-### Tính năng cho admin:
+## Tính năng cho admin:
 ---
 
 - Tài khoản
