@@ -61,10 +61,6 @@ Là một platform để đặt phòng online, tham khảo về tiện ích, d�
 6. Xóa phòng
 7. Cập nhật phòng
 8. Comment
-9.
-10.
-11. 
-12. 
 
 ### Công nghệ sử dụng
 
