@@ -1,27 +1,26 @@
-## Yêu cầu cho data model
+# Yêu cầu cho data model
 
-## Tính năng cho người dùng:
+### Tính năng cho người dùng:
 ---
 - Xem phòng
 - Đặt Phòng
 - Bình luận
 
-## Tính năng cho admin:
+### Tính năng cho admin:
 ---
 
--Tài khoản
-    - Đăng kí
-    - Đăng nhập
-    
--Room
-    - Thêm phòng
-    - Sửa phòng
-    - Xóa phòng
-    - Xem phòng
--Blogs
-    - Thêm blog
-    - Sửa blog
-    - Xóa blog
+- Tài khoản
+   1. Đăng kí
+   2. Đăng nhập
+- Room
+    1. Thêm phòng
+    2. Sửa phòng
+    3. Xóa phòng
+    4. Xem phòng
+- Blogs
+    1. Thêm blog
+    2. Sửa blog
+    3. Xóa blog
   
 
 ## Mô hình của database
@@ -103,10 +102,6 @@ Ví dụ:
 |login  |login  |/login     |POST   |                       |   |
 |logout |logout |/logout    |DELTE  |                       |   |
 |forgot password |reset password |/forgot-password|PUT      |   |
-|Comments|index|/comments   |GET    | hiện toàn bộ comments của post |      |
-|       |create|/comments   |POST   |tạo comment            |   |
-|       |update|/comments/:id|PUT   |thay đổi một comment   |   |
-|       |delete|/comments/:id|DELELTE |xóa một comment      |   |
 
 
 
