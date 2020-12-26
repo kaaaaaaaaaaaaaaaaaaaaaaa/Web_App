@@ -60,7 +60,10 @@ Là một platform để đặt phòng online, tham khảo về tiện ích, d�
 5. Sửa phòng
 6. Xóa phòng
 7. Cập nhật phòng
-8. Comment
+8. Thêm blog
+9. Sửa blog
+10. Xem blog 
+11. Comment
 
 ### Công nghệ sử dụng
 
