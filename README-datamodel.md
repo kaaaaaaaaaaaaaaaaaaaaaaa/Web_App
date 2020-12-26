@@ -1,13 +1,33 @@
 # Yêu cầu cho data model
 
-## Tính năng cho người dùng:
----
-- Xem phòng
-- Đặt Phòng
-- Bình luận
 
-## Tính năng cho admin:
 ---
+###  Tính năng cho người dùng 
+   1. Xem phòng
+   2. Đặt phòng
+   3. Bình luận 
+
+
+### Tài khoản
+   1. Đăng ký 
+   2. Đăng nhập
+
+### Booking
+   1. Đặt phòng 
+   2. Xem phòng
+   3. Thêm phòng
+   4. Sửa phòng
+   5. Xóa phòng
+
+### Blogs
+   1. Thêm blog
+   2. Sửa blog
+   3. Xóa blog
+
+  
+   
+  
+   
 
 
 ## Mô hình của database
