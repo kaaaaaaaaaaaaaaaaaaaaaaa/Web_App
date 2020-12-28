@@ -49,21 +49,27 @@
 Là một platform để đặt phòng online, tham khảo về tiện ích, dịch vụ cũng như nhận được sự hổ trợ của đội ngũ chăm sóc khách hàng. Sản phẩm này sẽ học theo các platform đặt phòng khách sạn khác như eBooking nhưng chỉ dừng lại ở mức cơ bản. Mục đích cuối cùng vẫn là nắm bắt được những công nghệ cần thiết cho nhu cầu của khách hàng.
 
 ![Technologies](./images/image001.png)
+## Tính năng chi tiết
+###  Tính năng cho người dùng 
+   - Đặt phòng
+   - Bình luận 
+###  Tính năng cho người dùng 
 
-### Tính năng chi tiết
+- Tài khoản
+   - Đăng ký 
+   - Đăng nhập
+   - Sửa tài khoản
 
-1. Đăng ký
-2. Đăng nhập
-3. Đặt phòng 
-3. Xem phòng
-4. Thêm phòng
-5. Sửa phòng
-6. Xóa phòng
-7. Cập nhật phòng
-8. Thêm blog
-9. Sửa blog
-10. Xem blog 
-11. Comment
+- Booking
+   - Đặt phòng 
+   - Xem phòng
+   - Thêm phòng
+   - Sửa phòng
+  - Xóa phòng
+
+- Blogs
+   - Sửa blog
+   - Xóa blog
 
 ### Công nghệ sử dụng
 
