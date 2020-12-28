@@ -3,7 +3,6 @@
 
 ---
 ###  Tính năng cho người dùng 
-   - Xem phòng
    - Đặt phòng
    - Bình luận 
 ###  Tính năng cho người dùng 
@@ -11,6 +10,7 @@
 - Tài khoản
    - Đăng ký 
    - Đăng nhập
+   - Sửa tài khoản
 
 - Booking
    - Đặt phòng 
