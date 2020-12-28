@@ -53,21 +53,22 @@ Là một platform để đặt phòng online, tham khảo về tiện ích, d�
 ###  Tính năng cho người dùng 
    - Đặt phòng
    - Bình luận 
-###  Tính năng cho người dùng 
+###  Tính năng cho admin 
 
 - Tài khoản
    - Đăng ký 
    - Đăng nhập
    - Sửa tài khoản
 
-- Booking
-   - Đặt phòng 
-   - Xem phòng
+- Booking 
    - Thêm phòng
+   - Xem phòng
    - Sửa phòng
-  - Xóa phòng
-
+   - Xóa phòng
+   
 - Blogs
+   - Thêm blog
+   - Xem blog
    - Sửa blog
    - Xóa blog
 
