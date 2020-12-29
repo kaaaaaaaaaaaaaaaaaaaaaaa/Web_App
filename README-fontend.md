@@ -80,7 +80,8 @@ Là một platform để đặt phòng online, tham khảo về tiện ích, d�
     - Ajax
     - Bootstrap
 - Back-end:
-    - PHP, MySQL
+    - PHP
+    - MySQL
 - Testing:
 
 - Bảo mật:
